@@ -21,7 +21,3 @@ If you use this code or these relations in your research, please cite:
 Van Kempen et al. 2025
 arXiv:2508.12556
 ```
-
-## Paper Link
-
-Full paper available at: [https://arxiv.org/abs/2508.12556](https://arxiv.org/abs/2508.12556)
